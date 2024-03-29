@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes-CM</string>
+    <string name="Notes">Notas</string>
+    <string name="Save">Guardar</string>
+    <string name="Back">Voltar</string>
+    <string name="Note">Nota</string>
+    <string name="Delete">Apagar</string>
+</resources>
